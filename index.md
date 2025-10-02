@@ -1,3 +1,13 @@
+
+
+# My Resources
+
+<div class="tabs">
+  <button class="tablink" onclick="openTab('Reading')">Reading List</button>
+  <button class="tablink" onclick="openTab('Courses')">Courses</button>
+</div>
+
+<div id="Reading" class="tabcontent">
 # My Reading List
 ### Machine Learning & AI
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -47,3 +57,21 @@
     <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
     <li><a href="https://www.linkedin.com/in/ruairi-o-donohoe-4a74632a5/">LinkedIn</a></li>
 </ul>
+</div>
+
+<div id="Courses" class="tabcontent" style="display:none">
+- Course 1
+- Course 2
+- Course 3
+</div>
+
+<script>
+function openTab(tabName) {
+  var i, x;
+  x = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  document.getElementById(tabName).style.display = "block";
+}
+</script>
