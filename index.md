@@ -1,7 +1,7 @@
 # My Reading List
 ### Machine Learning & AI
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Deep Learning with Python](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/)
+- [Deep Learning with Python](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
 
 ### Programming & Python
 - [Automate the Boring Stuff with Python](https://www.oreilly.com/library/view/automate-the-boring/9798341620094/)
