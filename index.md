@@ -1,48 +1,48 @@
 # My Reading List
 ### Machine Learning & AI
-1. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/))
-1. Deep Learning with Python
-1. Keras to Kubernetes
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/))
+- Deep Learning with Python
+- Keras to Kubernetes
 
 ### Programming & Python
-1. Automate the Boring Stuff with Python
-1. Beyond the Basic Stuff with Python
-1. You Look Like a Thing & I Love You
+- Automate the Boring Stuff with Python
+- Beyond the Basic Stuff with Python
+- You Look Like a Thing & I Love You
 
 ### Web Development
-1. Django for Beginners (4th & 5th Edition)
-1. Django for Professionals
-1. Django for APIs
-1. Django in Action
+- Django for Beginners (4th & 5th Edition)
+- Django for Professionals
+- Django for APIs
+- Django in Action
 
 ### Data, SQL & Databases
-1. Learning SQL
-1. MySQL Crash Course
-1. Practical SQL
-1. Beginning Database Design Solutions
+- Learning SQL
+- MySQL Crash Course
+- Practical SQL
+- Beginning Database Design Solutions
 
 ### Web Scraping & Data Engineering
-1. Hands-On Web Scraping with Python
-1. Apache Hadoop 3 Quickstart Guide
+- Hands-On Web Scraping with Python
+- Apache Hadoop 3 Quickstart Guide
    
 ### Data Visualization
-1. Learning Tableau 2022
-1. Tableau Desktop Cookbook
-1. Practical Tableau
+- Learning Tableau 2022
+- Tableau Desktop Cookbook
+- Practical Tableau
 
 ### DevOps, Cloud, and Containers
-1. Accelerate: The Science of Lean Software and DevOps
-1. The DevOps Handbook
-1. Docker Deep Dive
-1. The Kubernetes Book
-1. QuickStart Kubernetes
-1. Introducing MLOps: How to Scale Machine Learning in the Enterprise
-
+- Accelerate: The Science of Lean Software and DevOps
+- The DevOps Handbook
+- Docker Deep Dive
+- The Kubernetes Book
+- QuickStart Kubernetes
+- Introducing MLOps: How to Scale Machine Learning in the Enterprise
 
 ### Git & GitHub
-1. Git for Humans
-1. GitHub For Dummies
+- Git for Humans
+- GitHub For Dummies
 
+### Other Links
 <ul>
     <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
     <li><a href="https://www.linkedin.com/in/ruairi-o-donohoe-4a74632a5/">LinkedIn</a></li>
