@@ -1,11 +1,11 @@
-"Machine Learning & AI"
+"Machine Learning & AI":
 - url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
   title: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
 - url: "https://www.oreilly.com/library/view/deep-learning-with/9781617294433/"
   title: "Deep Learning with Python"
 
 
-"Programming & Python"
+"Programming & Python":
 - url: "https://www.oreilly.com/library/view/automate-the-boring/9798341620094/"
   title: "Automate the Boring Stuff with Python"
 - url: "https://www.oreilly.com/library/view/beyond-the-basic/9781098128203/"
@@ -13,7 +13,7 @@
 - url: "https://www.amazon.co.uk/You-Look-Like-Thing-Love/dp/0316525243"
   title: "You Look Like a Thing & I Love You"
 
-"Web Development"
+"Web Development":
 - url: "https://leanpub.com/djangoforbeginners"
   title: "Django for Beginners"
 - url: "https://leanpub.com/djangoforprofessionals"
@@ -23,7 +23,7 @@
 - url: "https://www.oreilly.com/library/view/django-in-action/9781633438163/"
   title: "Django in Action"
 
-"Data, SQL & Databases"
+"Data, SQL & Databases":
 - url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
   title: "Learning SQL"
 - url: "https://www.oreilly.com/library/view/mysql-crash-course/9781098156824/"
@@ -33,13 +33,13 @@
 - url: "https://www.oreilly.com/library/view/beginning-database-design/9781394155729/"
   title: "Beginning Database Design Solutions"
 
-"Web Scraping & Data Engineering"
+"Web Scraping & Data Engineering":
 - url: "https://www.oreilly.com/library/view/hands-on-web-scraping/9781789533392/"
   title: "Hands-On Web Scraping with Python"
 - url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
   title: "Apache Hadoop 3 Quickstart Guide"
    
-"Data Visualization"
+"Data Visualization":
 - url: "https://www.oreilly.com/library/view/learning-tableau-2022/9781801072328/"
   title: "Learning Tableau 2022"
 - url: "https://www.oreilly.com/library/view/tableau-desktop-cookbook/9781492090106/"
@@ -47,7 +47,7 @@
 - url: "https://www.oreilly.com/library/view/practical-tableau/9781491977309/"
   title: "Practical Tableau"
 
-"DevOps, Cloud, and Containers"
+"DevOps, Cloud, and Containers":
 - url: "https://www.oreilly.com/library/view/accelerate/9781457191435/"
   title: "Accelerate: The Science of Lean Software and DevOps"
 - url: "https://www.oreilly.com/library/view/the-devops-handbook/9781098182281"
@@ -57,13 +57,13 @@
 - url: "https://www.oreilly.com/library/view/the-kubernetes-book/9781835880302/"
   title: "The Kubernetes Book"
 - url: "https://www.oreilly.com/library/view/quick-start-kubernetes/9781836208655/"
-  title: QuickStart Kubernetes"
+  title: "QuickStart Kubernetes"
 - url: "https://www.oreilly.com/library/view/keras-to-kubernetes/9781119564836/"
   title: "Keras to Kubernetes"
 - url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
   title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
 
-"Git & GitHub"
+"Git & GitHub":
 - url: "https://www.amazon.com/Git-Humans-David-Demaree-ebook/dp/B0CW2YHHMY"
   title: "Git for Humans"
 - url: "https://www.oreilly.com/library/view/github-for-dummies/9781394159161/"
