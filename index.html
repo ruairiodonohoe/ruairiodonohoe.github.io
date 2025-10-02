@@ -11,8 +11,11 @@ title: "My Resources"
 </div>
 
 <div id="Reading" class="tabcontent" style="display:block">
-  {% for category, books in site.data.reading %}
-    <h2>{{ category }}</h2>
+  {% for category in site.data.reading %}
+    {% assign category_name = category[0] %}
+    {% assign books = category[1] %}
+
+    <h2>{{ category_name }}</h2>
     <ul>
       {% for book in books %}
         <li><a href="{{ book.url }}">{{ book.title }}</a></li>
