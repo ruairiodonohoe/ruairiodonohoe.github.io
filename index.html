@@ -20,6 +20,11 @@
   {% endfor %}
 </div>
 
+<div id="Courses" class="tabcontent" style="display:none">
+  {% for course in site.data.courses.Online_Courses %}
+    <li>{{ course.title }}</li>
+  {% endfor %}
+</div>
 
 <script>
 function openTab(tabName) {
