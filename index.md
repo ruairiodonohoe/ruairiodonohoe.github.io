@@ -1,14 +1,11 @@
-
-
-# My Resources
-
 <div class="tabs">
   <button class="tablink" onclick="openTab('Reading')">Reading List</button>
   <button class="tablink" onclick="openTab('Courses')">Courses</button>
 </div>
 
 <div id="Reading" class="tabcontent">
-  
+
+<br>
 <h1>My Reading List AAA</h1>
 
 <h3>Machine Learning & AI</h3>
