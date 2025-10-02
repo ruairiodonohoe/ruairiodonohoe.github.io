@@ -25,9 +25,11 @@ title: "SKILL DEVELOPMENT & CERTIFICATIONS"
 </div>
 
 <div id="Courses" class="tabcontent" style="display:none">
-  {% for course in site.data.courses.Courses %}
-    <li>{{ course.title }}</li>
-  {% endfor %}
+  <ul>
+    {% for course in site.data.courses.Courses %}
+      <li>{{ course.title }}</li>
+    {% endfor %}
+  </ul>
 </div>
 
 <script>
