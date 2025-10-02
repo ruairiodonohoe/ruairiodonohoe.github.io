@@ -1,9 +1,8 @@
 # My Reading List
 ### Machine Learning & AI
-1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+1. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/))
 1. Deep Learning with Python
 1. Keras to Kubernetes
-1. Introducing MLOps: How to Scale Machine Learning in the Enterprise
 
 ### Programming & Python
 1. Automate the Boring Stuff with Python
@@ -32,11 +31,13 @@
 1. Practical Tableau
 
 ### DevOps, Cloud, and Containers
+1. Accelerate: The Science of Lean Software and DevOps
+1. The DevOps Handbook
 1. Docker Deep Dive
 1. The Kubernetes Book
 1. QuickStart Kubernetes
-1. The DevOps Handbook
-1. Accelerate: The Science of Lean Software and DevOps
+1. Introducing MLOps: How to Scale Machine Learning in the Enterprise
+
 
 ### Git & GitHub
 1. Git for Humans
