@@ -1,33 +1,48 @@
-# My Projects
+# My Reading List
+### Machine Learning & AI
+1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+1. Deep Learning with Python
+1. Keras to Kubernetes
+1. Introducing MLOps: How to Scale Machine Learning in the Enterprise
 
-Here is a list of projects that I am working on:
+### Programming & Python
+1. Automate the Boring Stuff with Python
+1. Beyond the Basic Stuff with Python
+1. You Look Like a Thing & I Love You
 
-# My Interests
+### Web Development
+1. Django for Beginners (4th & 5th Edition)
+1. Django for Professionals
+1. Django for APIs
+1. Django in Action
 
-I'm interested in teaching novice coders about computer science!
+### Data, SQL & Databases
+1. Learning SQL
+1. MySQL Crash Course
+1. Practical SQL
+1. Beginning Database Design Solutions
 
-# My Blog
+### Web Scraping & Data Engineering
+1. Hands-On Web Scraping with Python
+1. Apache Hadoop 3 Quickstart Guide
+   
+### Data Visualization
+1. Learning Tableau 2022
+1. Tableau Desktop Cookbook
+1. Practical Tableau
 
-88 PART 2 Starting Your First Solo Project
-I'm really excited to blog my journey on GitHub.com.
+### DevOps, Cloud, and Containers
+1. Docker Deep Dive
+1. The Kubernetes Book
+1. QuickStart Kubernetes
+1. The DevOps Handbook
+1. Accelerate: The Science of Lean Software and DevOps
 
-# Get in Touch NOW
+### Git & GitHub
+1. Git for Humans
+1. GitHub For Dummies
 
 <ul>
     <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
-</ul>
-
-<ul>
-{% for post in site.posts %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-</ul>
-
-<ul>
-<li><a href="https://sarah-wecan.github.io/HelloWorld/">Hello
-World Project</a></li>
-<li><a href="https://github.com/thewecanzone/GitHubForDummies
-Readers">GitHub For Dummies Repo</a></li>
+    <li><a href="https://www.linkedin.com/in/ruairi-o-donohoe-4a74632a5/">LinkedIn</a></li>
 </ul>
