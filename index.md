@@ -20,9 +20,9 @@
 
 <h3>Programming & Python</h3>
 <ul>
-  <li><a href=href="https://www.oreilly.com/library/view/automate-the-boring/9798341620094/">Automate the Boring Stuff with Python</a></li>
+  <li><a href="https://www.oreilly.com/library/view/automate-the-boring/9798341620094/">Automate the Boring Stuff with Python</a></li>
   <li><a href="https://www.oreilly.com/library/view/beyond-the-basic/9781098128203/">Beyond the Basic Stuff with Python</a></li>
-  <li><a href="https://www.amazon.co.uk/You-Look-Like-Thing-Love/dp/0316525243">You Look Like a Thing & I Love You</a></li>()
+  <li><a href="https://www.amazon.co.uk/You-Look-Like-Thing-Love/dp/0316525243">You Look Like a Thing & I Love You</a></li>
 </ul>
 
 
@@ -39,7 +39,7 @@
   <li><a href="https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/">Learning SQL</a></li>
   <li><a href="https://www.oreilly.com/library/view/mysql-crash-course/9781098156824/">MySQL Crash Course</a></li>
   <li><a href="https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/">Practical SQL</a></li>
-  <li><a href="https://www.oreilly.com/library/view/beginning-database-design/9781394155729/">Beginning Database Design Solutions</li>
+  <li><a href="https://www.oreilly.com/library/view/beginning-database-design/9781394155729/">Beginning Database Design Solutions</a></li>
 </ul>
 
 <h3>Web Scraping & Data Engineering</h3>
