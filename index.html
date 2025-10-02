@@ -1,0 +1,22 @@
+---
+layout: default
+title: "My Resources"
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="tabs">
+  <button class="tablink" onclick="openTab('Reading')">Reading List</button>
+  <button class="tablink" onclick="openTab('Courses')">Courses</button>
+</div>
+
+<div id="Reading" class="tabcontent" style="display:block">
+  {% for category, books in site.data.reading %}
+    <h2>{{ category }}</h2>
+    <ul>
+      {% for book in books %}
+        <li><a href="{{ book.url }}">{{ book.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>
