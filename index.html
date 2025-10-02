@@ -31,6 +31,15 @@ title: "SKILL DEVELOPMENT & CERTIFICATIONS"
     {% endfor %}
   </ul>
 </div>
+            
+<div id="Courses" class="tabcontent" style="display:none">
+  <h2>{{ category_name }}</h2>
+  <ul>
+    {% for course in site.data.courses %}
+        <li><a href="#">{{ course.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
 <script>
 function openTab(tabName) {
