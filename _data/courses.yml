@@ -1,4 +1,4 @@
-"ML & Deep Learning Engineering"
+"ML & Deep Learning Engineering":
 - title: "Machine Learning/AI Engineer"
   url: "https://www.codecademy.com/learn/paths/machine-learning-engineer"
 - title: "Data Scientist: Machine Learning Specialist"
@@ -12,7 +12,7 @@
 - title: "Apply Natural Language Processing with Python"
   url: "https://www.codecademy.com/learn/paths/natural-language-processing"
 
-"Data Science"
+"Data Science":
 - title: "Data Scientist: Analytics"
   url: "https://www.codecademy.com/learn/paths/data-analyst"
 - title: "Data Scientist: Natural Language Processing Specialist"
@@ -30,7 +30,7 @@
 - title: "Design and manage analytics solutions using Power BI"
   url: "https://learn.microsoft.com/en-us/training/courses/pl-300t00"
 
-"Web Development"
+"Web Development":
 - title: "Create a Front-End App with React"
   url: "https://www.codecademy.com/learn/paths/build-web-apps-with-react"
 - title: "Build Python Web Apps with Flask"
