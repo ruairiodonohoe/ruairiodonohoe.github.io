@@ -6,14 +6,14 @@ title: "Continuous Learning"
 <h1>{{ page.title }}</h1>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('Reading')">Reading List</button>
+  <button class="tablink" onclick="openTab('Books')">Books</button>
   <button class="tablink" onclick="openTab('Courses')">Courses</button>
 </div>
 
 <br>
 
-<div id="Reading" class="tabcontent" style="display:block">
-  <h2>My Reading List</h2>
+<div id="Books" class="tabcontent" style="display:block">
+  <h2>Books</h2>
   {% for category in site.data.reading %}
     {% assign category_name = category[0] %}
     {% assign books = category[1] %}
@@ -28,7 +28,7 @@ title: "Continuous Learning"
 </div>
 
 <div id="Courses" class="tabcontent" style="display:none">
-  <h2>My Courses</h2>
+  <h2>Courses</h2>
 
   {% for category in site.data.courses %}
     {% assign category_name = category[0] %}
