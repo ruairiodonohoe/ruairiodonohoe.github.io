@@ -18,7 +18,7 @@ title: "Continuous Learning"
     {% assign category_name = category[0] %}
     {% assign books = category[1] %}
 
-    <h3>{{ category_name }}</h3>
+    <h4>{{ category_name }}</h4>
     <ul>
       {% for book in books %}
         <li><a href="{{ book.url }}">{{ book.title }}</a></li>
@@ -33,7 +33,7 @@ title: "Continuous Learning"
   {% for category in site.data.courses %}
     {% assign category_name = category[0] %}
     {% assign courses = category[1] %}
-    <h3>{{ category_name }}</h3>
+    <h4>{{ category_name }}</h4>
     <ul>
       {% for course in courses %}
           <li><a href="course.url">{{ course.title }}</a></li>
