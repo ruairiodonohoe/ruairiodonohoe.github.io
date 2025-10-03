@@ -1,16 +1,3 @@
 /* _sass/custom.scss */
 
-/* Make the header container expand naturally */
-body .wrapper header {
-  display: block !important;        /* remove flex/grid if theme sets it */
-  width: auto !important;            /* let it expand to fit content */
-  max-width: none !important;        /* remove any width restriction */
-}
 
-/* Ensure first paragraph never wraps */
-body header > p:first-of-type {
-  white-space: nowrap !important;   /* keep text on one line */
-  overflow: visible !important;     /* allow text to extend naturally */
-  text-overflow: clip !important;   /* no ellipsis */
-  max-width: none !important;       /* don’t restrict width */
-}
