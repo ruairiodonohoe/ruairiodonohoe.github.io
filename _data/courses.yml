@@ -17,10 +17,10 @@
   url: "https://www.codecademy.com/learn/paths/data-analyst"
 - title: "Data Scientist: Natural Language Processing Specialist (Codecademy)"
   url: "https://www.codecademy.com/learn/paths/data-science-nlp"
-- title: "Data Scientist: Inference Specialist"
-  url: "https://www.codecademy.com/enrolled/paths/data-science-inf (Codecademy)"
-- title: "Software Engineering for Data Scientists"
-  url: "https://www.codecademy.com/learn/paths/software-engineering-for-data-scientists (Codecademy)"
+- title: "Data Scientist: Inference Specialist (Codecademy)"
+  url: "https://www.codecademy.com/enrolled/paths/data-science-inf"
+- title: "Software Engineering for Data Scientists (Codecademy)"
+  url: "https://www.codecademy.com/learn/paths/software-engineering-for-data-scientists"
 
 "Business Intelligence & Dashboards":
 - title: "Tableau 2024 – Essential Training (LinkedIn Learning)"
