@@ -4,7 +4,6 @@
 - url: "https://www.oreilly.com/library/view/deep-learning-with/9781617294433/"
   title: "Deep Learning with Python"
 
-
 "Programming & Python":
 - url: "https://www.oreilly.com/library/view/automate-the-boring/9798341620094/"
   title: "Automate the Boring Stuff with Python"
@@ -36,16 +35,20 @@
 "Web Scraping & Data Engineering":
 - url: "https://www.oreilly.com/library/view/hands-on-web-scraping/9781789533392/"
   title: "Hands-On Web Scraping with Python"
-- url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
-  title: "Apache Hadoop 3 Quickstart Guide"
    
-"Data Visualization":
+"Data Visualizatio & Dashboards":
 - url: "https://www.oreilly.com/library/view/learning-tableau-2022/9781801072328/"
   title: "Learning Tableau 2022"
 - url: "https://www.oreilly.com/library/view/tableau-desktop-cookbook/9781492090106/"
   title: "Tableau Desktop Cookbook"
 - url: "https://www.oreilly.com/library/view/practical-tableau/9781491977309/"
   title: "Practical Tableau"
+
+"Git & GitHub":
+- url: "https://www.amazon.com/Git-Humans-David-Demaree-ebook/dp/B0CW2YHHMY"
+  title: "Git for Humans"
+- url: "https://www.oreilly.com/library/view/github-for-dummies/9781394159161/"
+  title: "GitHub For Dummies"
 
 "DevOps, Cloud, and Containers":
 - url: "https://www.oreilly.com/library/view/accelerate/9781457191435/"
@@ -63,9 +66,8 @@
 - url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
   title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
 
-"Git & GitHub":
-- url: "https://www.amazon.com/Git-Humans-David-Demaree-ebook/dp/B0CW2YHHMY"
-  title: "Git for Humans"
-- url: "https://www.oreilly.com/library/view/github-for-dummies/9781394159161/"
-  title: "GitHub For Dummies"
+"Big Data Technologies"
+- url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
+  title: "Apache Hadoop 3 Quickstart Guide"
+
 
