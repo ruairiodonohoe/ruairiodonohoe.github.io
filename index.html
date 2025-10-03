@@ -35,7 +35,7 @@ title: "Ruairí O'Donohoe"
     <h4>{{ category_name }}</h4>
     <ul>
       {% for course in courses %}
-          <li><a href="course.url">{{ course.title }}</a></li>
+          <li><a href={{ course.url }}>{{ course.title }}</a></li>
       {% endfor %}
     </ul>
   {% endfor %}
