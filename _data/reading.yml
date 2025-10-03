@@ -22,16 +22,6 @@
 - url: "https://www.oreilly.com/library/view/django-in-action/9781633438163/"
   title: "Django in Action"
 
-"Data, SQL & Databases":
-- url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
-  title: "Learning SQL"
-- url: "https://www.oreilly.com/library/view/mysql-crash-course/9781098156824/"
-  title: "MySQL Crash Course"
-- url: "https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/"
-  title: "Practical SQL"
-- url: "https://www.oreilly.com/library/view/beginning-database-design/9781394155729/"
-  title: "Beginning Database Design Solutions"
-
 "Web Scraping & Data Engineering":
 - url: "https://www.oreilly.com/library/view/hands-on-web-scraping/9781789533392/"
   title: "Hands-On Web Scraping with Python"
@@ -66,7 +56,15 @@
 - url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
   title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
 
-"Big Data Technologies":
+"SQL, Databases & Big Data":
+- url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
+  title: "Learning SQL"
+- url: "https://www.oreilly.com/library/view/mysql-crash-course/9781098156824/"
+  title: "MySQL Crash Course"
+- url: "https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/"
+  title: "Practical SQL"
+- url: "https://www.oreilly.com/library/view/beginning-database-design/9781394155729/"
+  title: "Beginning Database Design Solutions"
 - url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
   title: "Apache Hadoop 3 Quickstart Guide"
 
