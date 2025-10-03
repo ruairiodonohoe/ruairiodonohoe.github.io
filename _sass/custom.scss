@@ -1,6 +1,8 @@
-header > p:first-of-type {
+/* _sass/custom.scss */
+body header > p:first-of-type {
   white-space: nowrap !important;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 100%;  // ensure it doesn’t shrink below the container
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  display: block !important;
+  max-width: 100% !important;
 }
