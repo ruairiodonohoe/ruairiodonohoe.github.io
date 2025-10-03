@@ -1,8 +1,7 @@
-/* _sass/custom.scss */
 body header > p:first-of-type {
-  white-space: nowrap !important;
-  overflow: hidden !important;
-  text-overflow: ellipsis !important;
+  white-space: nowrap !important;  /* keep on one line */
+  overflow: visible !important;    /* allow text to extend outside container if needed */
+  text-overflow: clip !important;  /* don’t show ellipsis */
   display: block !important;
-  max-width: 100% !important;
+  max-width: none !important;      /* don’t restrict width */
 }
