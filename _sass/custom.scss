@@ -1,7 +1,13 @@
+/* _sass/custom.scss */
+body header {
+  display: flex !important;           /* ensure header is a flex container */
+  flex-direction: column !important;  /* stack items vertically */
+  flex-wrap: nowrap !important;       /* prevent wrapping inside header */
+}
+
 body header > p:first-of-type {
-  white-space: nowrap !important;  /* keep on one line */
-  overflow: visible !important;    /* allow text to extend outside container if needed */
-  text-overflow: clip !important;  /* don’t show ellipsis */
-  display: block !important;
-  max-width: none !important;      /* don’t restrict width */
+  white-space: nowrap !important;     /* keep text on one line */
+  overflow: visible !important;       /* let text extend naturally */
+  text-overflow: clip !important;     /* no ellipsis */
+  max-width: 100% !important;         /* don’t shrink below container width */
 }
