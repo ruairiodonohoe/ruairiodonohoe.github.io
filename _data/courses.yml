@@ -39,12 +39,12 @@
 "Mathematics & Statistics":
 - title: "College Algebra (Khan Academy)"
   url: "https://www.khanacademy.org/math/college-algebra"
-- title: "AP College Calculus AB"
-  url: "https://www.khanacademy.org/math/ap-calculus-ab (Khan Academy)"
-- title: "AP College Calculus BC"
-  url: "https://www.khanacademy.org/math/ap-calculus-bc (Khan Academy)"
-- title: "AP College Statistics"
-  url: "https://www.khanacademy.org/math/ap-statistics (Khan Academy)"
+- title: "AP College Calculus AB (Khan Academy)"
+  url: "https://www.khanacademy.org/math/ap-calculus-ab"
+- title: "AP College Calculus BC (Khan Academy)"
+  url: "https://www.khanacademy.org/math/ap-calculus-bc"
+- title: "AP College Statistics (Khan Academy"
+  url: "https://www.khanacademy.org/math/ap-statistics)"
 - title: "Master Statistics with Python (Codecademy)"
   url: "https://www.codecademy.com/learn/paths/master-statistics-with-python"
 
