@@ -13,12 +13,12 @@ title: "Continuous Learning"
 <br>
 
 <div id="Reading" class="tabcontent" style="display:block">
-  <h1>My Reading List</h1>
+  <h2>My Reading List</h2>
   {% for category in site.data.reading %}
     {% assign category_name = category[0] %}
     {% assign books = category[1] %}
 
-    <h2>{{ category_name }}</h2>
+    <h3>{{ category_name }}</h3>
     <ul>
       {% for book in books %}
         <li><a href="{{ book.url }}">{{ book.title }}</a></li>
@@ -28,7 +28,7 @@ title: "Continuous Learning"
 </div>
 
 <div id="Courses" class="tabcontent" style="display:none">
-  <h1>My Courses</h1>
+  <h2>My Courses</h2>
 
   {% for category in site.data.courses %}
     {% assign category_name = category[0] %}
