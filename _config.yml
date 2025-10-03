@@ -3,7 +3,7 @@ description: Data Analyst | ETL Engineer | ML & Deep Learning Engineer
 github_username: ruairiodonohoe
 
 # Set the theme
-theme: jekyll-theme-hyde
+theme: jekyll-theme-cayman
 
 # Sass settings
 sass:
