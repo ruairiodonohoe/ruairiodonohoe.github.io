@@ -9,8 +9,11 @@
   title: "Automate the Boring Stuff with Python"
 - url: "https://www.oreilly.com/library/view/beyond-the-basic/9781098128203/"
   title: "Beyond the Basic Stuff with Python"
+- url: "https://www.oreilly.com/library/view/hands-on-web-scraping/9781789533392/"
+  title: "Hands-On Web Scraping with Python"
 - url: "https://www.amazon.co.uk/You-Look-Like-Thing-Love/dp/0316525243"
   title: "You Look Like a Thing & I Love You"
+  
 
 "Web Development":
 - url: "https://leanpub.com/djangoforbeginners"
@@ -21,10 +24,6 @@
   title: "Django for APIs"
 - url: "https://www.oreilly.com/library/view/django-in-action/9781633438163/"
   title: "Django in Action"
-
-"Web Scraping & Data Engineering":
-- url: "https://www.oreilly.com/library/view/hands-on-web-scraping/9781789533392/"
-  title: "Hands-On Web Scraping with Python"
    
 "Data Visualization & Dashboards":
 - url: "https://www.oreilly.com/library/view/learning-tableau-2022/9781801072328/"
