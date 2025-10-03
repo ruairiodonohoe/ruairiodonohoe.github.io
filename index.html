@@ -13,6 +13,7 @@ title: "SKILL DEVELOPMENT & CERTIFICATIONS"
 <br>
 
 <div id="Reading" class="tabcontent" style="display:block">
+  <h1>My Reading List</h1>
   {% for category in site.data.reading %}
     {% assign category_name = category[0] %}
     {% assign books = category[1] %}
@@ -27,6 +28,8 @@ title: "SKILL DEVELOPMENT & CERTIFICATIONS"
 </div>
 
 <div id="Courses" class="tabcontent" style="display:none">
+  <h1>My Courses</h1>
+
   {% for category in site.data.courses %}
     {% assign category_name = category[0] %}
     {% assign courses = category[1] %}
