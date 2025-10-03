@@ -1,3 +1,6 @@
 header > p:first-of-type {
   white-space: nowrap !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;  // ensure it doesn’t shrink below the container
 }
