@@ -66,7 +66,7 @@
 - url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
   title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
 
-"Big Data Technologies"
+"Big Data Technologies":
 - url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
   title: "Apache Hadoop 3 Quickstart Guide"
 
