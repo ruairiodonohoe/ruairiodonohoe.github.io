@@ -1,36 +1,42 @@
-CodeCademy:
+"ML & Deep Learning Engineering"
 - title: "Machine Learning/AI Engineer"
   url: "https://www.codecademy.com/learn/paths/machine-learning-engineer"
-- title: "Data Scientist: Analytics"
-  url: "https://www.codecademy.com/learn/paths/data-analyst"
 - title: "Data Scientist: Machine Learning Specialist"
   url: "https://www.codecademy.com/learn/paths/data-science"
-- title: "Business Intelligence Data Analyst"
-  url: "https://www.codecademy.com/learn/paths/bi-data-analyst"
+- title: "Build Deep Learning Models with TensorFlow"
+  url: "https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow"
+- title: "FastAI Practical Deep Learning for Coders (completed Part 1 of 2)"
+  url: "https://course.fast.ai/"
+- title: "Data and Programming Foundations for AI" 
+  url: "https://www.codecademy.com/enrolled/paths/machine-learning-ai-engineering-foundations"
+- title: "Apply Natural Language Processing with Python"
+  url: "https://www.codecademy.com/learn/paths/natural-language-processing"
+
+"Data Science"
+- title: "Data Scientist: Analytics"
+  url: "https://www.codecademy.com/learn/paths/data-analyst"
 - title: "Data Scientist: Natural Language Processing Specialist"
   url: "https://www.codecademy.com/learn/paths/data-science-nlp"
 - title: "Data Scientist: Inference Specialist"
   url: "https://www.codecademy.com/enrolled/paths/data-science-inf"
-- title: "Data and Programming Foundations for AI" 
-  url: "https://www.codecademy.com/enrolled/paths/machine-learning-ai-engineering-foundations"
+- title: "Software Engineering for Data Scientists"
+  url: "https://www.codecademy.com/learn/paths/software-engineering-for-data-scientists"
+
+"Business Intelligence & Dashboards":
+- title: "Tableau 2024 – Essential Training"
+  url: "https://www.linkedin.com/learning/tableau-2024-1-essential-training"
+- title: "Business Intelligence Data Analyst"
+  url: "https://www.codecademy.com/learn/paths/bi-data-analyst"
+- title: "Design and manage analytics solutions using Power BI"
+  url: "https://learn.microsoft.com/en-us/training/courses/pl-300t00"
+
+"Web Development"
 - title: "Create a Front-End App with React"
   url: "https://www.codecademy.com/learn/paths/build-web-apps-with-react"
 - title: "Build Python Web Apps with Flask"
   url: "https://www.codecademy.com/learn/paths/build-python-web-apps-flask"
-- title: "Master Statistics with Python"
-  url: "https://www.codecademy.com/learn/paths/master-statistics-with-python"
-- title: "Build Deep Learning Models with TensorFlow"
-  url: "https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow"
-- title: "Apply Natural Language Processing with Python"
-  url: "https://www.codecademy.com/learn/paths/natural-language-processing"
-- title: "Software Engineering for Data Scientists"
-  url: "https://www.codecademy.com/learn/paths/software-engineering-for-data-scientists"
 
-LinkedIn:
-- title: "Tableau 2024 – Essential Training"
-  url: "https://www.linkedin.com/learning/tableau-2024-1-essential-training"
-
-Khan Academy:
+"Mathematics & Statistics":
 - title: "College Algebra"
   url: "https://www.khanacademy.org/math/college-algebra"
 - title: "AP College Calculus AB"
@@ -39,9 +45,7 @@ Khan Academy:
   url: "https://www.khanacademy.org/math/ap-calculus-bc"
 - title: "AP College Statistics"
   url: "https://www.khanacademy.org/math/ap-statistics"
-  
-Various:
-- title: "Design and manage analytics solutions using Power BI"
-  url: "https://learn.microsoft.com/en-us/training/courses/pl-300t00"
-- title: "FastAI Practical Deep Learning for Coders (completed Part 1 of 2)"
-  url: "https://course.fast.ai/"
+- title: "Master Statistics with Python"
+  url: "https://www.codecademy.com/learn/paths/master-statistics-with-python"
+
+
