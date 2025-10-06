@@ -1,4 +1,6 @@
 "ML & Deep Learning":
+- title: "FastAI Practical Deep Learning for Coders (Part 1 of 2)"
+  url: "https://course.fast.ai/"
 - title: "Machine Learning/AI Engineer (CC)"
   url: "https://www.codecademy.com/learn/paths/machine-learning-engineer"
 - title: "Data Scientist: Machine Learning Specialist (CC)"
@@ -9,8 +11,7 @@
   url: "https://www.codecademy.com/enrolled/paths/machine-learning-ai-engineering-foundations"
 - title: "Apply Natural Language Processing with Python (CC)"
   url: "https://www.codecademy.com/learn/paths/natural-language-processing"
-- title: "FastAI Practical Deep Learning for Coders (Part 1 of 2)"
-  url: "https://course.fast.ai/"
+
   
 "Data Science":
 - title: "Data Scientist: Analytics Specialist(CC)"
