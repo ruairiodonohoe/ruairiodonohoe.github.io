@@ -1,3 +1,7 @@
+"Data Engineering":
+- url: "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/"
+  title: "Fundamentals of Data Engineering"
+
 "ML & Deep Learning":
 - url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
   title: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
@@ -18,14 +22,26 @@
   
 
 "Web Development":
-- url: "https://leanpub.com/djangoforbeginners"
-  title: "Django for Beginners"
+- url: "https://www.manning.com/books/build-python-web-apps-with-streamlit"
+  title: "Streamlit in Action"
+- url: "https://www.oreilly.com/library/view/streamlit-for-data/9781803248226/"
+  title: "Streamlit for Data Science"
+- url: "https://www.oreilly.com/library/view/beginners-guide-to/9781484289839/"
+  title: "Beginner's Guide to Streamlit with Python"
+- url: "https://www.amazon.co.uk/Django-Beginners-Build-websites-Python/dp/1735467243
+  title: "Django for Beginners 4th Edition"
+- url: "https://books.google.ie/books/about/Django_for_Beginners_Fifth_Edition.html?id=GVxwDwAAQBAJ&redir_esc=y"
+  title: "Django for Beginners 5th Edition"
 - url: "https://leanpub.com/djangoforprofessionals"
   title: "Django for Professionals"
 - url: "https://learndjango.com/courses/django-for-apis/"
   title: "Django for APIs"
 - url: "https://www.oreilly.com/library/view/django-in-action/9781633438163/"
   title: "Django in Action"
+- url: "https://www.oreilly.com/library/view/fastapi/9781098135492/"
+  title: "FastAPI Modern Python Web Development"
+- url: "https://www.oreilly.com/library/view/building-data-science/9781837632749/"
+  title: "Building Data Science Applications with FastAPI"
    
 "Data Visualization & Dashboards":
 - url: "https://www.oreilly.com/library/view/learning-tableau-2022/9781801072328/"
@@ -47,7 +63,9 @@
 - url: "https://www.oreilly.com/library/view/the-devops-handbook/9781098182281"
   title: "The DevOps Handbook"
 - url: "https://www.oreilly.com/library/view/docker-deep-dive/9781835884386/"
-  title: "Docker Deep Dive"
+  title: "Docker Deep Dive 2024"
+- url: "https://www.oreilly.com/library/view/docker-deep-dive/9781806024032/"
+  title: "Docker Deep Dive 2025"
 - url: "https://www.oreilly.com/library/view/the-kubernetes-book/9781835880302/"
   title: "The Kubernetes Book"
 - url: "https://www.oreilly.com/library/view/quick-start-kubernetes/9781836208655/"
@@ -56,6 +74,8 @@
   title: "Keras to Kubernetes"
 - url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
   title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
+- url: "https://www.oreilly.com/library/view/beginning-mlops-with/9781484265499/"
+  title: "Beginning MLOps with MLFlow"
 
 "SQL, Databases & Big Data":
 - url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
@@ -66,7 +86,10 @@
   title: "Practical SQL"
 - url: "https://www.oreilly.com/library/view/beginning-database-design/9781394155729/"
   title: "Beginning Database Design Solutions"
+- url: "https://www.amazon.co.uk/SQLAlchemy-Practice-program-relational-databases-ebook/dp/B0BVJRKS54"
+  title: "SQLAlchemy 2 In Practice"
 - url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
   title: "Apache Hadoop 3 Quickstart Guide"
+  
 
 
