@@ -2,6 +2,20 @@
 - url: "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/"
   title: "Fundamentals of Data Engineering"
 
+"SQL, Databases & Big Data":
+- url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
+  title: "Learning SQL"
+- url: "https://www.oreilly.com/library/view/mysql-crash-course/9781098156824/"
+  title: "MySQL Crash Course"
+- url: "https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/"
+  title: "Practical SQL"
+- url: "https://www.oreilly.com/library/view/beginning-database-design/9781394155729/"
+  title: "Beginning Database Design Solutions"
+- url: "https://www.amazon.co.uk/SQLAlchemy-Practice-program-relational-databases-ebook/dp/B0BVJRKS54"
+  title: "SQLAlchemy 2 In Practice"
+- url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
+  title: "Apache Hadoop 3 Quickstart Guide"
+
 "ML & Deep Learning":
 - url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
   title: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
@@ -77,19 +91,7 @@
 - url: "https://www.oreilly.com/library/view/beginning-mlops-with/9781484265499/"
   title: "Beginning MLOps with MLFlow"
 
-"SQL, Databases & Big Data":
-- url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
-  title: "Learning SQL"
-- url: "https://www.oreilly.com/library/view/mysql-crash-course/9781098156824/"
-  title: "MySQL Crash Course"
-- url: "https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/"
-  title: "Practical SQL"
-- url: "https://www.oreilly.com/library/view/beginning-database-design/9781394155729/"
-  title: "Beginning Database Design Solutions"
-- url: "https://www.amazon.co.uk/SQLAlchemy-Practice-program-relational-databases-ebook/dp/B0BVJRKS54"
-  title: "SQLAlchemy 2 In Practice"
-- url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
-  title: "Apache Hadoop 3 Quickstart Guide"
+
   
 
 
