@@ -1,6 +1,8 @@
 "Data Engineering":
 - title: "Airflow 101 (Airflow 3) Learning Path"
   url: "https://academy.astronomer.io/path/airflow-101"
+- title: "Airflow DAG Authoring (Airflow 3) Learning Path"
+  url: "https://academy.astronomer.io/path/airflow-dag-authoring"
 
 "ML & Deep Learning":
 - title: "FastAI Practical Deep Learning for Coders (Part 1 of 2)"
