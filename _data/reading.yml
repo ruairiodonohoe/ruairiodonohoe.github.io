@@ -1,6 +1,11 @@
 "Data Engineering":
 - url: "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/"
   title: "Fundamentals of Data Engineering"
+- url: "https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/"
+  title: "Data Pipelines Pocket Reference"
+- url: "https://www.oreilly.com/library/view/learning-google-bigquery/9781787288591/"
+  title: "Learning Google BigQuery"
+
 
 "SQL, Databases & Big Data":
 - url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
