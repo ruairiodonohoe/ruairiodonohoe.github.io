@@ -5,8 +5,41 @@
   title: "Data Pipelines Pocket Reference"
 - url: "https://www.oreilly.com/library/view/learning-google-bigquery/9781787288591/"
   title: "Learning Google BigQuery"
+- url: "https://www.oreilly.com/library/view/data-pipelines-with/9781633436374/"
+  title: "Data Pipelines with Apache Airflow, 2nd Edition"
 
-
+"ML & Deep Learning":
+- url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
+  title: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
+- url: "https://www.oreilly.com/library/view/deep-learning-with/9781617294433/"
+  title: "Deep Learning with Python"
+- url:  "https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/"
+  title: "Designing Machine Learning Systems"
+  
+"DevOps, Cloud & Containers":
+- url: "https://www.oreilly.com/library/view/accelerate/9781457191435/"
+  title: "Accelerate: The Science of Lean Software and DevOps"
+- url: "https://www.oreilly.com/library/view/the-devops-handbook/9781098182281"
+  title: "The DevOps Handbook"
+- url: "https://www.oreilly.com/library/view/docker-deep-dive/9781835884386/"
+  title: "Docker Deep Dive 2024"
+- url: "https://www.oreilly.com/library/view/docker-deep-dive/9781806024032/"
+  title: "Docker Deep Dive 2025"
+- url: "https://www.oreilly.com/library/view/the-kubernetes-book/9781835880302/"
+  title: "The Kubernetes Book"
+- url: "https://www.oreilly.com/library/view/quick-start-kubernetes/9781836208655/"
+  title: "QuickStart Kubernetes"
+- url: "https://www.oreilly.com/library/view/keras-to-kubernetes/9781119564836/"
+  title: "Keras to Kubernetes"
+- url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
+  title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
+- url: "https://www.oreilly.com/library/view/beginning-mlops-with/9781484265499/"
+  title: "Beginning MLOps with MLFlow"
+- url: "https://www.amazon.com/Git-Humans-David-Demaree-ebook/dp/B0CW2YHHMY"
+  title: "Git for Humans"
+- url: "https://www.oreilly.com/library/view/github-for-dummies/9781394159161/"
+  title: "GitHub For Dummies"
+  
 "SQL, Databases & Big Data":
 - url: "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"
   title: "Learning SQL"
@@ -21,13 +54,7 @@
 - url:  "https://www.oreilly.com/library/view/apache-hadoop-3/9781788999830/"
   title: "Apache Hadoop 3 Quickstart Guide"
 
-"ML & Deep Learning":
-- url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
-  title: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
-- url: "https://www.oreilly.com/library/view/deep-learning-with/9781617294433/"
-  title: "Deep Learning with Python"
-- url:  "https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/"
-  title: "Designing Machine Learning Systems"
+
 
 "Programming & Python":
 - url: "https://www.oreilly.com/library/view/automate-the-boring/9798341620094/"
@@ -70,31 +97,7 @@
 - url: "https://www.oreilly.com/library/view/practical-tableau/9781491977309/"
   title: "Practical Tableau"
 
-"Git & GitHub":
-- url: "https://www.amazon.com/Git-Humans-David-Demaree-ebook/dp/B0CW2YHHMY"
-  title: "Git for Humans"
-- url: "https://www.oreilly.com/library/view/github-for-dummies/9781394159161/"
-  title: "GitHub For Dummies"
 
-"DevOps, Cloud & Containers":
-- url: "https://www.oreilly.com/library/view/accelerate/9781457191435/"
-  title: "Accelerate: The Science of Lean Software and DevOps"
-- url: "https://www.oreilly.com/library/view/the-devops-handbook/9781098182281"
-  title: "The DevOps Handbook"
-- url: "https://www.oreilly.com/library/view/docker-deep-dive/9781835884386/"
-  title: "Docker Deep Dive 2024"
-- url: "https://www.oreilly.com/library/view/docker-deep-dive/9781806024032/"
-  title: "Docker Deep Dive 2025"
-- url: "https://www.oreilly.com/library/view/the-kubernetes-book/9781835880302/"
-  title: "The Kubernetes Book"
-- url: "https://www.oreilly.com/library/view/quick-start-kubernetes/9781836208655/"
-  title: "QuickStart Kubernetes"
-- url: "https://www.oreilly.com/library/view/keras-to-kubernetes/9781119564836/"
-  title: "Keras to Kubernetes"
-- url: "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/"
-  title: "Introducing MLOps: How to Scale Machine Learning in the Enterprise"
-- url: "https://www.oreilly.com/library/view/beginning-mlops-with/9781484265499/"
-  title: "Beginning MLOps with MLFlow"
 
 
   
