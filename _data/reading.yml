@@ -5,6 +5,8 @@
   title: "Data Pipelines Pocket Reference"
 - url: "https://www.oreilly.com/library/view/learning-google-bigquery/9781787288591/"
   title: "Learning Google BigQuery"
+- url: "https://www.oreilly.com/library/view/analytics-engineering-with/9781098142377/"
+  title: "Analytics Engineering with SQL and dbt"
 - url: "https://www.oreilly.com/library/view/data-pipelines-with/9781633436374/"
   title: "Data Pipelines with Apache Airflow, 2nd Edition"
 
